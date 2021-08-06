@@ -1,0 +1,92 @@
+.header{
+    padding: 0.5rem;
+}
+
+.first-line{
+    color: #c4071f;
+    font-family: Helvetica;
+    font-size: 1.7em;
+    letter-spacing: 0.07rem;
+}
+
+.second-line{
+    font-family: Libre Bodoni;
+    font-size: 3.5em;
+    letter-spacing: 0.03rem;
+    color: #ff0000;
+    font-weight: 600;
+}
+
+.third-line{
+    text-transform: uppercase;
+    font-family: Libre Bodoni;
+    letter-spacing: 0.06rem;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.nav-link{
+    margin: 0rem 1rem;
+}
+
+.nav-menu{
+    color: #fff;
+    text-transform: uppercase;
+    font-family: Helvetica;
+    letter-spacing: 0.03rem;
+}
+
+.dropdown-item{
+    letter-spacing: 0.05rem;
+}
+
+.dropdown-item:hover{
+    background-color: #ff9d9d;
+    color: #fff;
+}
+
+#about-dropdown .dropdown-item{
+    text-transform: capitalize;
+    font-size: 1.05rem;
+    letter-spacing: 0.03rem;
+    padding: 0.5em 2em;
+    border-bottom: 1px solid #c3c3c3;
+}
+
+#about-dropdown .dropdown-item:nth-child(1) {
+    margin-top: -0.5rem;
+}
+
+#about-dropdown .dropdown-item:nth-child(5) {
+    border: none;
+    margin-bottom: -0.5rem;
+}
+
+
+#acadamics-dropdown .dropdown-item{
+    text-transform: capitalize;
+    font-size: 1.05rem;
+    letter-spacing: 0.03rem;
+    padding: 0.5em 2em;
+    border-bottom: 1px solid #c3c3c3;
+}
+
+#acadamics-dropdown .dropdown-item:nth-child(1) {
+    margin-top: -0.5rem;
+}
+
+#acadamics-dropdown .dropdown-item:nth-child(5) {
+    border: none;
+    margin-bottom: -0.5rem;
+}
+
+#about-dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+#acadamics-dropdown:hover .dropdown-menu {display: block;}
+
+.sub-txt{
+    text-transform: lowercase;
+    font-size: 01rem;
+}

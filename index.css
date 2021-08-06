@@ -1,0 +1,12 @@
+.celibration{
+    font-style: italic;
+    font-size: 1.7rem;
+    font-family: Serif;
+    /* color: #6161c7; */
+    color: #000;
+    letter-spacing: 0.05rem;
+    box-shadow: 0rem 0.1rem 0.4rem #ff9d9d;
+    /* background-color: #FBDA61; */
+    /* background-image: linear-gradient(45deg, #FBDA61 0%, #FF5ACD 100%); */
+
+}

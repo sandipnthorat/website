@@ -1,0 +1,27 @@
+.contact-card{
+    width: 3.5em;
+    border-radius: 0px;
+    
+}
+
+
+.get-in-touch{
+    font-size: 0.9rem;
+    color: #e9204f;
+}
+
+.icon{
+    font-size: 1.6rem;
+    text-align: center;
+    color: #e9204f;
+}
+
+.location{
+    font-size: 1.1rem;
+    font-weight: 500;
+    letter-spacing: 0.05rem;
+}
+
+.address{
+    color: #8c8b8b;
+}
